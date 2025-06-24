@@ -20,5 +20,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aarjav-Jain-2210&show_icons=true&theme=radical" alt="aarjavjain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarjavjain&" alt="aarjavjain" /></p>
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
