@@ -1,39 +1,56 @@
-🌌 Welcome to Aarjav Jain's Code Universe! 🚀
-#
-# ## ## B.Tech CSE student at Graphic Era University (CGPA: 9.13) crafting innovative solutions with MERN, Solidity, and AI. From building AI-powered finance apps to deploying blockchain tokens, I’m passionate about turning ideas into reality. Let’s explore my journey!
+<h2 align="left">Hi 👋! My name is Aarjav Jain and I'm a Full Stack Developer, from Graphic Era University, India</h2>
 
-🧑‍💻 About Me
-Hey there! I’m Aarjav Jain, a coder, problem-solver, and tech explorer. I thrive on building scalable web apps, diving into blockchain, and tackling DSA challenges. Whether it’s creating a smart finance platform or contributing to open-source, I’m driven by the thrill of innovation. Outside coding, I’m a hackathon enthusiast, a LeetCode grinder, and a coffee aficionado. ☕
+###
 
-Currently: Building SIMPLFY, an AI-driven finance app.
-Exploring: Web3, DevOps, and advanced ML algorithms.
-Fun Fact: I once debugged a C++ code while sleep-deprived and still beat my own LeetCode time!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aarjav-Jain-2210&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aarjav-Jain-2210&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
 
-🛠️ My Tech Arsenal
----
-✨ Featured Creations
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-SIMPLFY - AI-Powered Finance HubA sleek MERN app with an AI chatbot for financial advice, expense tracking, and PDF reports.Tech: HTML, CSS, JavaScript, MongoDB, AI | GitHub | Live Demo
+###
 
-CryptoToken - Blockchain AssetAn ERC-20 token on Sepolia Testnet, built with Solidity and integrated with MetaMask.Tech: Solidity, OpenZeppelin, Web3 | GitHub
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"  />
+</div>
 
-Voters-Registration-PortalA MERN-based platform for secure voter registration with real-time updates.Tech: React, Node.js, MongoDB | GitHub
+###
 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FCD434&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
+</div>
 
+###
 
-🏆 Milestones & Impact
+<br clear="both">
 
-Code For Bharat '25 Finalist: Competed among India’s top teams in a national hackathon.
-GSSoC'24 Contributor: Enhanced open-source projects with impactful code.
-Full-Stack Intern @ TBI GEU: Built scalable web solutions for startups.
+<img src="https://raw.githubusercontent.com/Aarjav-Jain-2210/Aarjav-Jain-2210/output/snake.svg" alt="Snake animation" />
 
-
-📊 Code in Numbers
----
-🤝 Let’s Connect!
----
-✍️ Thoughts & Updates
-
-“Every line of code is a step toward solving a real-world problem.”
-Thanks for exploring my universe! Let’s code the future together! 🌟
+###
