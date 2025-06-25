@@ -1,10 +1,10 @@
 
-<h1 align="center">Yo 👋, I'm Anirudh Lakhanpal </h1>
+<h1 align="center">Yo 👋, I'm Aarjav Jain </h1>
 <h3 align="center">A passionate web developer and enthusiastic practitioner of C++ and Python development, deeply engaged in exploring the realms of deep learning to enrich and elevate digital experiences.</h3>
 
 </p>    
 <a href="https://vaunt.dev/">
-        <img src="https://api.vaunt.dev/v1/github/entities/SharonIV0X86/contributions?format=svg" width="350" />
+        <img src="https://api.vaunt.dev/v1/github/entities/Aarjav-Jain-2210/contributions?format=svg" width="350" />
     </a>
    
 </p>
