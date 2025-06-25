@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **C++, NextJS, Typescript, Linux**
 
-- 👯 I’m looking to collaborate on [Github](https://github.com/Aarjav-Jain-2210) [LibC-STL](https://github.com/SharonIV0x86/LibC-STL)
+- 👯 I’m looking to collaborate on [Github](https://github.com/Aarjav-Jain-2210) [LibC-STL](https://github.com/Aarjav-Jain-2210/LibC-STL)
 
 - 💬 Ask me about **Linux, Low Level Learning, C/C++**
 
