@@ -9,9 +9,9 @@
    
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharoniv0x86&label=Profile%20views&color=0e75b6&style=flat" alt="sharoniv0x86" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aarjav-Jain-2210&label=Profile%20views&color=0e75b6&style=flat" alt="Aarjav-Jain-2210" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharoniv0x86" alt="sharoniv0x86" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aarjav-Jain-2210" alt="Aarjav-Jain-2210" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
