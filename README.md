@@ -1,5 +1,5 @@
 
-<h1 align="center">Yo 👋, I'm Aarjav Jain </h1>
+<h1 align="center">Hi 👋, I'm Aarjav Jain </h1>
 <h3 align="center">A passionate web developer and enthusiastic practitioner of C++ and Python development, deeply engaged in exploring the realms of deep learning to enrich and elevate digital experiences.</h3>
 
 
