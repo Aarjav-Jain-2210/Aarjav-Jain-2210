@@ -1,5 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Aarjav Jain </h1>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&color=0c76e8&center=true&vCenter=true&multiline=true&width=800&lines=AI+%7C+ML+%7C+Data+Science+Enthusiast;Passionate+Coder+%7C+Creative+Thinker;Open+Source+Contributor+%7C+Lifelong+Learner" height="80" />
+</a>
+
 <h3 align="center">A passionate web developer and enthusiastic practitioner of C++ and Python development, deeply engaged in exploring the realms of deep learning to enrich and elevate digital experiences.</h3>
 
 
