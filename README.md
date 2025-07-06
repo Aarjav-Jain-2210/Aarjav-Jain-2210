@@ -1,9 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Aarjav Jain </h1>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&color=0c76e8&center=true&vCenter=true&multiline=true&width=1100&lines=AI+%7C+ML+%7C+Data+Science+Enthusiast;Passionate+Coder+%7C+Creative+Thinker;Open+Source+Contributor+%7C+Lifelong+Learner" height="10" />
-  
-</a>
+
+
+<!-- Typing SVG Banner (GitHub README friendly) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=+AI+%7C+ML+%7C+Data+Science+Enthusiast;+Passionate+Coder+%7C+Creative+Thinker;+Open+Source+Contributor+%7C+Lifelong+Learner;+Web+Developer+%7C+C%2B%2B+%7C+Python+Practitioner" alt="Typing SVG" />
+</p>
+
 
 
 
