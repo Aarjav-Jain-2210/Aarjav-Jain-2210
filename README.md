@@ -1,11 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Aarjav Jain </h1>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&color=0c76e8&center=true&vCenter=true&multiline=true&width=800&lines=AI+%7C+ML+%7C+Data+Science+Enthusiast;Passionate+Coder+%7C+Creative+Thinker;Open+Source+Contributor+%7C+Lifelong+Learner" height="80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&color=0c76e8&center=true&vCenter=true&multiline=true&width=1100&lines=AI+%7C+ML+%7C+Data+Science+Enthusiast;Passionate+Coder+%7C+Creative+Thinker;Open+Source+Contributor+%7C+Lifelong+Learner" height="10" />
+  
 </a>
 
-<h3 align="center">A passionate web developer and enthusiastic practitioner of C++ and Python development, deeply engaged in exploring the realms of deep learning to enrich and elevate digital experiences.</h3>
 
+
+<h3 align="center"> 
+  I'm deeply engaged in exploring the realms of deep learning to enrich and elevate digital experiences.</h3> 
 
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 </p>    
